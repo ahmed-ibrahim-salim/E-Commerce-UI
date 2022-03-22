@@ -1,6 +1,6 @@
 E-Commerce Application
 Screens
-<img src="https://user-images.githubusercontent.com/48734681/159593943-ffbf0559-c19e-40a8-bc2d-9a843c6caca1.pn" width="100" height="200">
+<img src="https://user-images.githubusercontent.com/48734681/159593943-ffbf0559-c19e-40a8-bc2d-9a843c6caca1.png" width="100" height="200">
 
 ![Simulator Screen Shot - iPhone 11 - 2022-03-23 at 00 36 49](https://user-images.githubusercontent.com/48734681/159593948-6dcd5a88-a611-4eab-b015-523c01eafeda.png)
 ![Simulator Screen Shot - iPhone 11 - 2022-03-23 at 00 36 59](https://user-images.githubusercontent.com/48734681/159593952-c49faebb-0f82-423d-86a6-ff012f453cf2.png)

@@ -1,8 +1,7 @@
 E-Commerce Application
 Screens
 
-![Simulator Screen Shot - iPhone 11 - 2022-03-23 at 00 33 47](https://user-images.githubusercontent.com/48734681/159593943-ffbf0559-c19e-40a8-bc2d-9a843c6caca1.png)
-![Simulator Screen Shot - iPhone 11 - 2022-03-23 at 00 36 49](https://user-images.githubusercontent.com/48734681/159593948-6dcd5a88-a611-4eab-b015-523c01eafeda.png)
+![Simulator Screen Shot - iPhone 11 - 2022-03-23 at 00 33 47](https://user-images.githubusercontent.com/48734681/159593943-ffbf0559-c19e-40a8-bc2d-9a843c6caca1.png)![Simulator Screen Shot - iPhone 11 - 2022-03-23 at 00 36 49](https://user-images.githubusercontent.com/48734681/159593948-6dcd5a88-a611-4eab-b015-523c01eafeda.png)
 ![Simulator Screen Shot - iPhone 11 - 2022-03-23 at 00 36 59](https://user-images.githubusercontent.com/48734681/159593952-c49faebb-0f82-423d-86a6-ff012f453cf2.png)
 ![Simulator Screen Shot - iPhone 11 - 2022-03-23 at 00 37 08](https://user-images.githubusercontent.com/48734681/159593955-5f0f912d-dff3-4051-a43d-800c81b3c948.png)
 ![Simulator Screen Shot - iPhone 11 - 2022-03-23 at 00 37 11](https://user-images.githubusercontent.com/48734681/159593958-2fdf1630-66fe-4921-8645-e0b5466622eb.png)

@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  E-Commerce-UI
+
+  Created by ahmadibrahim on 1/10/22.
+  
+*/
+"logIn" = "Log in";
+"signUp" = "signUp";
+"WelcometoBolt" = "Welcome to Bolt";
+"exploreUs" = "Explore Us";
+"email" = "Email";
+"password" = "Password";
+"donthaveaccount?" = "Don’t have an acoount ?";
+"name" = "Name";
+"alreadyhaveaccount" = "Already have account ?";

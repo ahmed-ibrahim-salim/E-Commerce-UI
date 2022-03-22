@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="addresscell" rowHeight="108" id="KGk-i7-Jjw" customClass="AddressCell" customModule="E_Commerce_UI" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="336" height="108"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="336" height="108"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="vc4-gt-Sbt">
+                        <rect key="frame" x="0.0" y="5" width="336" height="98"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wQV-9a-BSM" customClass="DLRadioButton">
+                                <rect key="frame" x="10" y="15" width="316" height="68"/>
+                                <state key="normal" title="Button">
+                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="iconColor">
+                                        <color key="value" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="iconSize">
+                                        <real key="value" value="15"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="iconStrokeWidth">
+                                        <real key="value" value="2"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="indicatorSize">
+                                        <real key="value" value="5"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="iconOnRight" value="YES"/>
+                                </userDefinedRuntimeAttributes>
+                            </button>
+                        </subviews>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="wQV-9a-BSM" secondAttribute="trailing" constant="10" id="4du-Ok-WVZ"/>
+                            <constraint firstItem="wQV-9a-BSM" firstAttribute="top" secondItem="vc4-gt-Sbt" secondAttribute="top" constant="15" id="BWM-UN-dGE"/>
+                            <constraint firstAttribute="bottom" secondItem="wQV-9a-BSM" secondAttribute="bottom" constant="15" id="FBq-O9-Bgc"/>
+                            <constraint firstItem="wQV-9a-BSM" firstAttribute="leading" secondItem="vc4-gt-Sbt" secondAttribute="leading" constant="10" id="d6J-g2-aK9"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="vc4-gt-Sbt" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="5" id="RAN-7Q-2QT"/>
+                    <constraint firstAttribute="bottom" secondItem="vc4-gt-Sbt" secondAttribute="bottom" constant="5" id="U4j-mK-qnq"/>
+                    <constraint firstItem="vc4-gt-Sbt" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="ed8-jE-zwY"/>
+                    <constraint firstAttribute="trailing" secondItem="vc4-gt-Sbt" secondAttribute="trailing" id="ypJ-Pj-Ute"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="radioButton" destination="wQV-9a-BSM" id="eTP-bX-fPg"/>
+            </connections>
+            <point key="canvasLocation" x="-87" y="3"/>
+        </tableViewCell>
+    </objects>
+</document>

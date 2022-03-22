@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (5.5.0)
+  - DLRadioButton (1.4.12)
+  - GoogleMaps (6.0.1):
+    - GoogleMaps/Maps (= 6.0.1)
+  - GoogleMaps/Base (6.0.1)
+  - GoogleMaps/Maps (6.0.1):
+    - GoogleMaps/Base
+  - GooglePlaces (6.0.0)
+  - MOLH (1.4.3)
+  - SDWebImage (5.12.3):
+    - SDWebImage/Core (= 5.12.3)
+  - SDWebImage/Core (5.12.3)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - DLRadioButton (~> 1.4)
+  - GoogleMaps
+  - GooglePlaces
+  - MOLH
+  - SDWebImage (~> 5.0)
+  - Toast-Swift (~> 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DLRadioButton
+    - GoogleMaps
+    - GooglePlaces
+    - MOLH
+    - SDWebImage
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  DLRadioButton: d7c4e225ed0e8013cef7be61455230c7557ad7c1
+  GoogleMaps: c213fc2334b7374144cede914da779b99be0ab74
+  GooglePlaces: c97d96ae68594acb64035c9ca9f26fbfc1d23af1
+  MOLH: e45827d200aeb1310641090fd8cd03ad2b42ae72
+  SDWebImage: 53179a2dba77246efa8a9b85f5c5b21f8f43e38f
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 5848a8a80e1eec74a37eb7e30ea3d32c4750ce03
+
+COCOAPODS: 1.11.2

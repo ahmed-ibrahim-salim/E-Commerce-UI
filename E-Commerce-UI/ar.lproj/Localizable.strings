@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  E-Commerce-UI
+
+  Created by ahmadibrahim on 1/10/22.
+  
+*/
+
+"logIn" = "تسجيل الدخول";
+"signUp" = "حساب جديد";
+"WelcometoBolt" = "مرحبا بك في بولت";
+"exploreUs" = "اكتشفنا";
+"email" = "البريد الإلكتروني";
+"password" = "كلمه السر";
+"donthaveaccount?" = "ليس لديك حساب ؟";
+"name" = "الإسم";
+"alreadyhaveaccount" = "لديك حساب بالفعل ؟";

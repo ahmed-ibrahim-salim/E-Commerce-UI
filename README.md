@@ -1,4 +1,4 @@
-E-Commerce App
+Cartmax: An E-Commerce Application
 
 Features:
 - Navigate the store to buy your favourite items.
